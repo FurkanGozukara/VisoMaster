@@ -15,7 +15,7 @@ nvidia-cudnn-cu12==9.13.1.26
 tensorrt-cu12
 tensorrt-cu12_libs==10.13.2.6
 tensorrt-cu12_bindings==10.13.2.6
-torch==2.9.1
+torch==2.9.0+cu128
 torchvision
 torchaudio
 tqdm
