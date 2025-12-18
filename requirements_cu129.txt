@@ -6,7 +6,7 @@ scikit-image
 onnx
 protobuf
 psutil
-onnxruntime-gpu==1.22.0
+onnxruntime-gpu==1.23.2
 packaging
 PySide6
 kornia
