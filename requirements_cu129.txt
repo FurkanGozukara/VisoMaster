@@ -1,3 +1,4 @@
+--index-url https://download.pytorch.org/whl/cu128
 numpy
 opencv-python
 pillow
@@ -14,9 +15,9 @@ nvidia-cudnn-cu12==9.13.1.26
 tensorrt-cu12
 tensorrt-cu12_libs==10.13.2.6
 tensorrt-cu12_bindings==10.13.2.6
-torch==2.8.0+cu129
-torchvision==0.23.0+cu129
-torchaudio==2.8.0+cu129
+torch==2.9.1
+torchvision
+torchaudio
 tqdm
 ftfy
 regex
