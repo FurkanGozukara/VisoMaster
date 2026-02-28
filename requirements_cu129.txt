@@ -6,6 +6,7 @@ scikit-image
 onnx
 protobuf
 psutil
+requests
 onnxruntime-gpu==1.23.2
 packaging
 PySide6
